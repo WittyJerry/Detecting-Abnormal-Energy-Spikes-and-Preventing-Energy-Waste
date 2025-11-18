@@ -135,6 +135,12 @@ ORDER BY SpikeCount DESC;
 - Correlation between total usage and spike frequency
 
 ## Results / Findings
+
+**Energy Usage Dashboard:**  
+![Energy Usage Dashboard](https://github.com/WittyJerry/Detecting-Abnormal-Energy-Spikes-and-Preventing-Energy-Waste/blob/main/Dashboard%202.png)
+
+**Energy Spike Dashboard:** 
+![Energy spike Dashboard](https://github.com/WittyJerry/Detecting-Abnormal-Energy-Spikes-and-Preventing-Energy-Waste/blob/main/Dashboard%201.png)
 <details> <summary>📌 Spike Detection & Resolution</summary>
 
 - 114 abnormal spikes detected
@@ -183,7 +189,7 @@ ORDER BY SpikeCount DESC;
 
 - 📊 Enhance anomaly detection models with housing type, day-of-week, and usage patterns
 
--💡 Provide actionable energy-saving tips via dashboards or notifications
+- 💡 Provide actionable energy-saving tips via dashboards or notifications
 
 </details>
 
